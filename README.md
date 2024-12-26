@@ -68,10 +68,8 @@ Enter the starting row (1-8): 1
 ## Project Structure
 ```
 data-structures-study/
-├── polynomial/
-│   └── polynomial_by_listnode.py
-├── knights-tour/
-│   └── chess.py
+├── polynomial_by_listnode.py
+├── chess.py
 └── README.md
 ```
 
@@ -90,41 +88,3 @@ data-structures-study/
 - Path visualization with connected lines
 - Input validation for board boundaries
 
-## Educational Value
-These implementations demonstrate several important concepts:
-- Linked List operations
-- Backtracking algorithms
-- Heuristic approaches
-- Visual algorithm representation
-- Data structure efficiency
-- Input parsing and validation
-
-## Contributing
-Contributions are welcome! Here are some ways you can contribute:
-- Add new data structure implementations
-- Improve existing implementations
-- Add more test cases
-- Enhance documentation
-- Optimize algorithms
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Future Improvements
-
-### Polynomial Operations
-- Add negative term handling
-- Implement polynomial division
-- Add graphing capabilities
-- Add unit tests
-- Support for different variables
-
-### Knight's Tour
-- Add animation speed control
-- Implement different board sizes
-- Add solution saving/loading
-- Add multiple solution finding
-- Implement performance metrics
-
-## Contact
-Feel free to submit issues and enhancement requests!
